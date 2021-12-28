@@ -410,7 +410,7 @@ section {
 }
 .section-bg:before {
   content: "";
-  background: #a8c0ff;
+  background: #6A80B8;
   position: absolute;
   bottom: 60px;
   top: 60px;
@@ -513,7 +513,7 @@ section {
   font-size: 13px;
   display: inline-flex;
   align-items: center;
-  border: 2px solid #FFDE8C;
+  border: 2px solid #CAD2E8;
 }
 .about .content .about-btn i {
   font-size: 16px;
@@ -528,7 +528,7 @@ section {
 }
 .about .icon-boxes .icon-box i {
   font-size: 40px;
-  color: #FFDE8C;
+  color: #CAD2E8;
   margin-bottom: 10px;
 }
 .about .icon-boxes .icon-box h4 {
@@ -538,7 +538,7 @@ section {
 }
 .about .icon-boxes .icon-box p {
   font-size: 15px;
-  color: #848484;
+  color: #ffffff;
 }
 @media (max-width: 1200px) {
   .about .content {
@@ -578,10 +578,10 @@ section {
   margin: 0;
 }
 .tabs .nav-link:hover {
-  color: #B8A984;
+  color: #CAD2E8;
 }
 .tabs .nav-link.active {
-  background: #FFDE8C;
+  background: #6A80B8;
   color: #fff;
   border-color: #a18a8b;
 }
@@ -638,7 +638,7 @@ section {
 }
 .services .icon-box i {
   float: left;
-  color: #FFDE8C;
+  color: #CAD2E8;
   font-size: 40px;
   line-height: 0;
 }
